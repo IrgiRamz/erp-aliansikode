@@ -12,7 +12,7 @@ return [
         ],
 
         'top' => [
-            'login'    => 'Login',
+            'login' => 'Login',
             'register' => 'Register',
         ],
 
@@ -21,50 +21,50 @@ return [
         ],
 
         'social' => [
-            'facebook'  => 'Facebook',
-            'twitter'   => 'Twitter',
+            'facebook' => 'Facebook',
+            'twitter' => 'Twitter',
             'instagram' => 'Instagram',
-            'youtube'   => 'YouTube',
-            'linkedin'  => 'LinkedIn',
+            'youtube' => 'YouTube',
+            'linkedin' => 'LinkedIn',
             'pinterest' => 'Pinterest',
-            'tiktok'    => 'TikTok',
-            'github'    => 'GitHub',
-            'whatsapp'  => 'WhatsApp',
-            'slack'     => 'Slack',
+            'tiktok' => 'TikTok',
+            'github' => 'GitHub',
+            'whatsapp' => 'WhatsApp',
+            'slack' => 'Slack',
         ],
     ],
 
     'homepage' => [
-        'title'            => 'Homepage',
+        'title' => 'Homepage',
         'navigation_label' => 'Home',
     ],
 
     'footer' => [
-        'description'   => 'Designed to optimize and streamline business operations, Aureus ERP is suitable for enterprises of all sizes.',
+        'description' => 'Designed to optimize and streamline business operations, Aliansikode ERP is suitable for enterprises of all sizes.',
         'description_2' => 'The platform emphasizes reporting for insights, security, localization flexibility, and integration with CRMs, BI tools, and APIs.',
-        'useful_links'  => 'Useful Links',
-        'contact_us'    => 'Contact Us',
-        'follow_us'     => 'Follow Us',
-        'copyright'     => 'Copyright',
-        'powered_by'    => 'Powered by',
+        'useful_links' => 'Useful Links',
+        'contact_us' => 'Contact Us',
+        'follow_us' => 'Follow Us',
+        'copyright' => 'Copyright',
+        'powered_by' => 'Powered by',
     ],
 
     'pages' => [
         'about_us' => [
-            'title'      => 'About Us',
+            'title' => 'About Us',
             'meta_title' => 'About Us',
         ],
     ],
 
     'page_titles' => [
-        'home'               => 'Home',
-        'about-us'           => 'About Us',
-        'privacy-policy'     => 'Privacy Policy',
-        'terms-conditions'   => 'Terms & Conditions',
+        'home' => 'Home',
+        'about-us' => 'About Us',
+        'privacy-policy' => 'Privacy Policy',
+        'terms-conditions' => 'Terms & Conditions',
         'news-announcements' => 'News & Announcements',
-        'blog'               => 'Blog',
-        'blogs'              => 'Blogs',
-        'contact'            => 'Contact',
-        'contact-us'         => 'Contact Us',
+        'blog' => 'Blog',
+        'blogs' => 'Blogs',
+        'contact' => 'Contact',
+        'contact-us' => 'Contact Us',
     ],
 ];
