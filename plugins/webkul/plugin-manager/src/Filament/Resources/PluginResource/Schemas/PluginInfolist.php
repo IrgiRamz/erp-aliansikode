@@ -33,7 +33,7 @@ class PluginInfolist
                                 ->color('info'),
                         ]),
 
-                    Grid::make(2)
+                    Grid::make(1)
                         ->schema([
                             IconEntry::make('is_installed')
                                 ->label(__('plugin-manager::filament/resources/plugin.infolist.is_installed'))
@@ -42,17 +42,7 @@ class PluginInfolist
                                 ->falseIcon('heroicon-o-x-circle')
                                 ->trueColor('success')
                                 ->falseColor('gray'),
-
-                            TextEntry::make('author')
-                                ->label(__('plugin-manager::filament/resources/plugin.infolist.author'))
-                                ->badge(),
                         ]),
-
-                    TextEntry::make('license')
-                        ->label(__('plugin-manager::filament/resources/plugin.infolist.license'))
-                        ->default('MIT')
-                        ->badge()
-                        ->color('success'),
 
                     TextEntry::make('summary')
                         ->label(__('plugin-manager::filament/resources/plugin.infolist.summary'))
